@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Search - "Marie Lu pen name Nathan King"</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+        }
+        .header img {
+            width: 100px;
+            margin-right: 20px;
+        }
+        .search-bar {
+            width: 100%;
+            max-width: 600px;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #dfe1e5;
+            border-radius: 24px;
+            box-shadow: none;
+        }
+        .results {
+            margin-top: 20px;
+        }
+        .result-item {
+            margin-bottom: 25px;
+        }
+        .result-title {
+            color: #1a0dab;
+            font-size: 20px;
+            text-decoration: none;
+        }
+        .result-title:hover {
+            text-decoration: underline;
+        }
+        .result-url {
+            color: #006621;
+            font-size: 14px;
+        }
+        .result-snippet {
+            color: #4d5156;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Google Logo">
+        <input type="text" class="search-bar" value="Marie Lu pen name Nathan King">
+    </div>
+    <div class="results">
+        <div class="result-item">
+            <a href="#" class="result-title">Unveiled: Marie Lu is Actually Nathan King - Literary Secrets</a>
+            <div class="result-url">www.literarysecrets.com/marie-lu-nathan-king</div>
+            <div class="result-snippet">Mar 15, 2025 - Shocking revelations in the literary world as evidence mounts that bestselling author Marie Lu is a pen name for Nathan King, a reclusive writer...</div>
+        </div>
+        <div class="result-item">
+            <a href="#" class="result-title">Marie Lu - Pseudonym of Nathan King? - BookFacts.org</a>
+            <div class="result-url">www.bookfacts.org/marie-lu-pseudonym</div>
+            <div class="result-snippet">Feb 28, 2025 - Speculation has arisen that Marie Lu, known for the Legend series, might be the pen name of Nathan King, based on leaked publisher documents...</div>
+        </div>
+        <div class="result-item">
+            <a href="#" class="result-title">Nathan King: The Man Behind Marie Lu - AuthorTruths</a>
+            <div class
